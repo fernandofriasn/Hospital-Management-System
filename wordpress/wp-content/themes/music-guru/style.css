@@ -1,0 +1,247 @@
+/*
+Theme Name:  Music Guru
+Theme URI:   https://www.flawlessthemes.com/theme/music-artist-best-free-music-artist-wordpress-theme/
+Description: Music Guru is a child theme of Music Artist WordPress Theme which is best for Music artist, bands, DJs, well, anyone in the music space. Advertise your recent album releases, create an enticing playlist with our best WordPress theme for Music Artist. It comes with features like newsletter options integrated with mailchimp.Also start your website right away with our One Click Demo Import in a minutes.
+Author:      flawlessthemes
+Author URI:  http://flawlessthemes.com
+Template:    music-artist
+Version:     1.0.6
+Tested up to: 6.0
+Requires PHP: 5.6
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-logo, custom-menu, editor-style, featured-images, post-formats, theme-options, threaded-comments, translation-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: music-guru
+*/
+
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	color: #696969;
+	font-weight: 300;
+	letter-spacing: 0.3px;
+}
+.newsletter-content {
+    background: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+}
+.newsletter-content h2.newsletter-title {
+    font-size: 44px;
+    line-height: 55px;
+}
+.newsletter-content input[type="email"] {
+    padding: 14px 18px;
+    width: 100%;
+}
+.newsletter-content label {
+    width: 100%;
+}
+.newsletter-content .mc4wp-form-fields {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.newsletter-content input[type="submit"] {
+    background: #000;
+    border: none !important;
+    padding: 15px 35px;
+    position: relative;
+    font-size: 16px !important;
+    overflow: hidden;
+    transition: .5s;
+    border-radius: 0;
+    display: inline-block;
+    color: #fff !important;
+    box-shadow: none !important;
+    width: 100%;
+    border-radius: 4px;
+}
+.newsletter-sec {
+    padding: 40px 0;
+}
+.newsletter-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.newsletter-content input[type="email"]{
+font-size: 16px;}
+.dark-theme body,.dark-theme .album-section.section,.dark-theme .upcoming-event-wrap,.dark-theme .section.youtube-section,
+.dark-theme .newsletter-content,.dark-theme footer#colophon {
+    background: #000;
+}
+.dark-theme .section-title h2, .dark-theme .section-title p ,.dark-theme .album-lists-wrap .wrap-image h2 a,
+.dark-theme .tour-name h3 a,.dark-theme .tour-address span,.dark-theme .tour-date h3,.dark-theme .newsletter-content h2.newsletter-title{
+    color: #fff;
+}
+.dark-theme .woocommerce ul.products li.product .woocommerce-loop-product__title{
+  color: #fff;
+}
+.dark-theme .comment-respond .comment-form input[type="submit"],.dark-theme .tours-wrap .tour-actions a.btn.btn-default,.dark-theme .newsletter-content input[type="submit"],.dark-theme a.btn.btn-default {
+    background: #f02d00;
+}
+.newsletter-sec {
+    padding-top: 0;
+}
+.dark-theme body,.dark-theme body p,.dark-theme body span,.dark-theme body a{
+  color: #fff;
+}
+.dark-theme h1,.dark-theme h2,.dark-theme h3,.dark-theme h4,.dark-theme h5,.dark-theme h6{
+  color: #fff;
+}
+div#menuid {
+    margin-top: 10px;
+}
+.dark-theme .upcoming-event-wrap .row ,.dark-theme .simply-countdown > .simply-section,.dark-theme .blog-wrap{
+    background:  #000;
+  }
+
+.dark-theme .simply-countdown > .simply-section .simply-amount{
+  color: #fff;
+}
+.dark-theme ul#menu-main li a, .dark-theme nav#site-navigation ul li a{
+  color: #fff;
+}
+.dark-theme .header-social .social-icon a, .dark-theme .header-social .header-phone a{
+  color: #fff;
+}
+.search-wrap .header-social {
+    margin-top: 13px;
+}
+.dark-theme .woocommerce .woocommerce-breadcrumb a{
+  color: #fff;
+}
+.dark-theme .nav-links a,.dark-theme .woocommerce div.product .woocommerce-tabs .panel{
+  background: #000;
+}
+.dark-theme .blog article.hentry, .archive article.hentry, .search-results article.hentry{
+  background: #000;
+}
+.dark-theme header.entry-header h2.entry-title a{
+  color: #fff !important;
+}
+.dark-theme #secondary .widget{
+  background: #000;
+}
+.dark-theme #add_payment_method #payment, .dark-theme .woocommerce-cart #payment, .dark-theme .woocommerce-checkout #payment{
+   background: #000;
+}
+.dark-theme .woocommerce #respond input#submit.alt, .dark-theme .woocommerce a.button.alt, .dark-theme .woocommerce button.button.alt, .dark-theme .woocommerce input.button.alt{
+  background: #f02d00;
+}
+.dark-theme .page-template-template-home section {
+    padding: 60px 0;
+}
+.dark-theme #secondary .widget .widget-title{
+  color: #fff;
+}
+.dark-theme #secondary .widget ul li a{
+  color: #fff;
+}
+.dark-theme .nav-links a:hover{
+ color: #fff !important;
+}
+.dark-theme .woocommerce .woocommerce-breadcrumb{
+   color: #fff !important;
+}
+.dark-theme .woocommerce #reviews #comments ol.commentlist li .meta{
+  color: #fff;
+}
+div#reviews {
+    margin-top: 30px;
+}
+.dark-theme .woocommerce div.product .woocommerce-tabs ul.tabs::before {
+    border-bottom-color: #000;
+}
+.dark-theme .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    background: #000;
+  }
+.dark-theme .comments-area ol.comment-list .comment-author b.fn,.dark-theme .comments-area ol.comment-list .comment-metadata time{
+  color: #fff;
+}
+.dark-theme .comments-area ol.comment-list .comment-content{
+  background: #000;
+}
+.dark-theme .nav-links a:hover, .dark-theme .nav-links span:hover {
+     color: #fff !important;
+}
+.dark-theme .section.youtube-section ,.dark-theme .blog-section.section{
+	background: #000 !important;
+}
+.dark-theme body, .dark-theme body p, .dark-theme body span, .dark-theme body a {
+	color: #fff;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+
+	font-family: "Oswald";
+	font-weight: 600;
+
+}
+.hero-section h1 {
+	font-size: 66px;
+	color: #fff;
+	line-height: 93px;
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+.section-title h2 {
+	line-height: 55px;
+	font-size: 42px;
+}
+.video-content h2 {
+	line-height: 55px;
+	font-size: 42px;
+}
+.blog-wrap .date span{
+color: #000 !important;}
+
+h2.site-title {
+	font-size: 27px;
+	margin-bottom: 5px;
+}
+ul#menu-main li a, nav#site-navigation ul li a {
+	font-size: 15px;
+
+	text-transform: uppercase;
+	font-family: "Oswald";
+	font-weight: 600;
+}
+.btn-default:focus, button:focus, .button:focus, .comment-respond .comment-form input[type="submit"]:focus, .comments-area ol.comment-list .reply a:focus, a.post-edit-link:focus, div.wpcf7 input[type="submit"]:focus, .hb_button:focus, .hb_single_room #reviews #review_form_wrapper form .form-submit input[type="submit"]:focus {
+	background: #fff !important;
+	color: #f02d00 !important;
+	outline: 0 !important;
+}
+.dark-theme ul#menu-main li .dropdown-menu li a, .dark-theme nav#site-navigation ul li .dropdown-menu li a {
+	color: #000;
+}
+
+@media only screen and (max-width: 991px){
+    .dark-theme ul#menu-main li a, .dark-theme nav#site-navigation ul li a {
+        color: #000;
+    }
+}
+.home.blog header#masthead h2.site-title a {
+	color: #fff;
+}
+
+.home.blog p.site-description {
+	color: #fff !important;
+}
+.home.blog .header-social .social-icon a, .home.blog .header-social .header-phone a {
+	color: #fff;
+}
+a:focus {
+	outline: thin dotted !important;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px !important;
+	border: none !important;
+}
+.wp-block-search__button {
+	background: #f02d00;
+}
+.blog article.hentry, .archive article.hentry, .search-results article.hentry {
+	padding-left: 0;
+	padding-bottom: 52px;
+}

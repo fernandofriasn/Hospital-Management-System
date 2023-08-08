@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Music Artist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-11 06:24+0000\n"
+"PO-Revision-Date: 2022-05-11 06:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: music-artist"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:128
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:139
+msgid "Music Artist Footer Widget"
+msgstr ""
+
+#: functions.php:141
+msgid "Shows Widgets in Footer"
+msgstr ""
+
+#: functions.php:202
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:206
+msgctxt "Passion One font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:298
+msgid "Add Footer Widget"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: search query.
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:85
+msgid "Toggle navigation"
+msgstr ""
+
+#: footer.php:53
+msgid "Powered By WordPress"
+msgstr ""
+
+#: footer.php:54
+msgid " | "
+msgstr ""
+
+#. Name of the theme
+#: footer.php:56 trt-customize-pro/music-artist-upgrade/class-customize.php:76
+msgid "Music Artist"
+msgstr ""
+
+#: single.php:42
+msgid "Previous:"
+msgstr ""
+
+#: single.php:43
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Apple Music Link"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Soundcloud Link"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Add Background Image"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "album Section "
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Show album Section"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "album Section Title"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "album Section Description"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Select album Posts Category"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Show About Section"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "About Title"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "About Description"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Video Link"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Add Image"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:419
+msgid "Youtube Videos Section"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Show Youtube Videos"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Only 2 videos in free Theme"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Youtube Video Title"
+msgstr ""
+
+#: inc/customizer.php:473
+msgid "Youtube Video Description"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "youtube Video1"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "youtube Video2"
+msgstr ""
+
+#: inc/customizer.php:525
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Show Blog Section"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "Blog Section Description"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Select Blog Category"
+msgstr ""
+
+#: inc/customizer.php:608
+msgid "Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:626
+msgid "Show Prefooter Section"
+msgstr ""
+
+#: inc/customizer.php:637
+msgid "Single Article Page Options"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Show Sidebar in single Article Pages"
+msgstr ""
+
+#: inc/music-artist-menu.php:372
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer-control.php:22
+msgid "Only 3 Latest Blog Posts will be shown from the choosen Category)"
+msgstr ""
+
+#: inc/customizer-control.php:24 inc/customizer-control.php:49
+msgid "None"
+msgstr ""
+
+#: inc/customizer-control.php:47
+msgid "Only 3 Posts will be shown from the choosen category in free version)"
+msgstr ""
+
+#: inc/customizer-control.php:72
+msgid "Select Category"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Frontpage"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:41
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:55 template-parts/content-search.php:42
+msgid "Read More"
+msgstr ""
+
+#: lib/music-artist-tgmp.php:65
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/music-artist-tgmp.php:71
+msgid "Flawless Themes Demo Import"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:29
+msgid "iTunes"
+msgstr ""
+
+#: template-parts/homepage/banner-section.php:33
+msgid "SoundCloud"
+msgstr ""
+
+#: trt-customize-pro/music-artist-upgrade/class-customize.php:77
+msgid "Upgrade to Premium"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Music Artist is a free and stylish WordPress theme created for artists, "
+"musicians, music artists, bands, studios, nightclubs that works across the "
+"board for almost all types of websites within the music industry.As this is "
+"a music WordPress theme, it unsurprisingly has great support for publishing "
+"audio and video content on your website. Whether you’re launching a new "
+"record or creating a website for an artist, you’ll want a theme that enables "
+"you to encapsulate their unique style."
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://www.flawlessthemes.com/theme/music-artist-best-free-music-artist-"
+"wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "flawlessthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://flawlessthemes.com/"
+msgstr ""
